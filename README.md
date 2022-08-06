@@ -8,7 +8,7 @@ View My LinkedIn
   
 - 🤳 [View My LinkedIn](https://www.linkedin.com/in/matthewthomascox/) <br>
   
-- 🏗️ I'm working currently with  [![Promineo Tech](https://raw.githubusercontent.com/Masheen88/PromineoTech/main/promineotechlogo.webp)](https://www.promineotech.com) &nbsp; to develop my skills as a Software Developer utilizing languages such as HTML / CSS, JS, JQUERY, REACT.
+- 🏗️ I'm working currently at  [![Promineo Tech](https://raw.githubusercontent.com/Masheen88/PromineoTech/main/promineotechlogo.webp)](https://www.promineotech.com) &nbsp; mentoring and developing my skills as a Software Developer utilizing languages such as HTML / CSS, JS, JQUERY, REACT. PHP and MySQL are next!
   
 - 🔢 I love finding solutions to everyday problems.
 

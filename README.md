@@ -28,7 +28,7 @@
 <a href="https://mochajs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="50" /></a>  
 <a href="https://www.chaijs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" /></a>  
 <!-- cypress unit testing -->
-<a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="[https://www.cypress.io/_astro/navbar-brand._O9_em9E.svg](https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png)" alt="Cypress" height="50" /></a>
+<a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" alt="Cypress" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
